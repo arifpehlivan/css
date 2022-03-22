@@ -11,5 +11,20 @@
     float: left;
 }
 #author-box{
-    
+    margin-top: 10px;
+}
+
+.tags{
+    margin: 0;
+    padding: 0;
+}
+
+.tags li{
+    list-style: none;
+    display: inline;
+    margin-right: 5px;
+}
+
+a{
+    text-decoration: none;
 }
